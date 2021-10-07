@@ -1,0 +1,41 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 20px;
+  font-family: "Poppins", sans-serif;
+}
+/* Toggle
+.toggle {
+  width: 100px;
+  height: 50px;
+  background-color: #ccc;
+  border-radius: 100rem;
+  padding: 5px;
+  transition: all 0.2s linear;
+}
+.spinner {
+  border-radius: 100rem;
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  transition: all 0.2s linear;
+}
+.toggle-label input {
+  display: none;
+}
+.toggle-label {
+  cursor: pointer;
+  display: inline-block;
+}
+.toggle-label input:checked + .toggle {
+  background-color: #6a5af9;
+}
+.toggle-label input:checked + .toggle .spinner {
+  transform: translateX(50px);
+}
+ */

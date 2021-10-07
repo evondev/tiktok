@@ -1,0 +1,4 @@
+- Fonts chữ: SF mono ligatures, Operator Mono
+- File gradient.css
+- Extension Custom CSS and JS Loader
+- Extension Fix VSCode Checksums
